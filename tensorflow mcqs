@@ -1,0 +1,11 @@
+Sr No	Question	Options	Answer
+1	Which TensorFlow component represents a collection of operations that produce a specific output?	Tensor, Variable, Session, Graph	Graph	
+2	In TensorFlow, what term refers to the process of updating variable values based on calculated gradients?	Optimization, Backpropagation, Initialization, Regularization	Optimization	
+3	What function is used to define a mathematical operation as a TensorFlow tensor?	tf.constant(), tf.placeholder(), tf.add(), tf.multiply()	tf.add()	
+4	What data structure does TensorFlow use to represent multidimensional arrays?	List, NumPy array, Dictionary, TensorFlow tensor	TensorFlow tensor	
+5	What technique is used to prevent overfitting of neural networks in TensorFlow?	Batch normalization, Early stopping, Dropout, All of the above	All of the above	
+6	What is the primary role of a Keras sequential model in TensorFlow?	Preprocessing and cleaning data, Defining and connecting layers, Training and evaluating the model, Deploying the model to production	Defining and connecting layers	
+7	Which TensorFlow function is used to evaluate a model's performance on a given dataset?	tf.model.evaluate(), tf.keras.metrics.accuracy(), tf.train.Adam(), tf.losses.mean_squared_error()	tf.model.evaluate()	
+8	Which concept allows TensorFlow models to be deployed on mobile and embedded devices?	TensorFlow Lite, TensorFlow Extended (TFX), TensorFlow Quantum, TensorFlow.js	TensorFlow Lite	
+9	What data format is most commonly used for storing and loading pre-trained TensorFlow models?	JSON, CSV, HDF5, TensorFlow SavedModel format	TensorFlow SavedModel format	
+10	Which core principle underlies TensorFlow's computation architecture?	Imperative programming, Declarative programming , Event-driven programming, Functional programming	Declarative programming	
