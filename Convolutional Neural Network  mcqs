@@ -1,0 +1,81 @@
+MCQs:
+
+Which statement is TRUE about pooling layers in CNNs?
+(a) They reduce spatial dimensions while retaining essential features.
+(b) They increase spatial dimensions to capture more details.
+(c) They are essential for classification tasks but not regression tasks.
+(d) They are always followed by activation functions in the architecture.
+
+Explanation: Pooling layers are crucial for dimensionality reduction and capturing key features while reducing computational complexity. So, the answer is (a).
+
+What is the primary benefit of using rectified linear unit (ReLU) activation functions in CNNs?
+(a) They provide greater numerical precision compared to sigmoid functions.
+(b) They are computationally efficient and prevent vanishing gradients.
+(c) They capture negative correlations more effectively than other activation functions.
+(d) They are well-suited for natural language processing tasks.
+
+Explanation: ReLU's computational efficiency and prevention of vanishing gradients make them popular in CNNs. So, the answer is (b).
+
+Which layer in a CNN extracts spatial features by performing convolutions?
+(a) Fully connected layer
+(b) Flatten layer
+(c) Convolutional layer
+(d) Output layer
+
+Explanation: Convolutional layers perform convolutions to extract spatial features. So, the answer is (c).
+
+What is the term used for the weights that are shared across different filter locations in a convolution operation?
+(a) Kernel size
+(b) Stride
+(c) Padding
+(d) Filter weights
+
+Explanation: Filter weights are shared across filter locations, representing the learned features. So, the answer is (d).
+
+What does "receptive field" refer to in a CNN?
+(a) The number of filter weights in a convolutional layer
+(b) The area of input data a neuron in a convolutional layer "sees"
+(c) The activation function used in a convolutional layer
+(d) The number of neurons in the fully connected layer
+
+Explanation: Receptive field defines the input region a neuron considers. So, the answer is (b).
+
+What is the main purpose of dropout layers in CNNs?
+(a) To normalize feature values
+(b) To reduce overfitting by randomly dropping neurons during training
+(c) To perform element-wise multiplication between feature maps
+(d) To compress weights for efficient storage
+
+Explanation: Dropout helps prevent overfitting by randomly dropping neurons. So, the answer is (b).
+
+Which data augmentation technique can be used to artificially increase the training data size for CNNs, especially when working with small datasets?
+(a) Feature scaling
+(b) Random flipping and rotation of images
+(c) Changing color contrast and brightness
+(d) All of the above
+
+Explanation: All three techniques can be used for data augmentation. So, the answer is (d).
+
+What type of loss function is commonly used for image classification tasks with CNNs?
+(a) Mean squared error (MSE)
+(b) Categorical cross-entropy
+(c) Binary cross-entropy
+(d) Hinge loss
+
+Explanation: Categorical cross-entropy is typically used for multi-class classification. So, the answer is (b).
+
+Which optimizer is often used for training CNNs due to its efficient handling of sparse gradients?
+(a) Stochastic gradient descent (SGD)
+(b) AdaGrad
+(c) Adam
+(d) All of the above
+
+Explanation: Adam, AdaGrad, and SGD are all suitable for CNNs, with Adam being popular due to its adaptivity to learning rates. So, the answer is (d).
+
+Which technique can be used to visualize and understand the features learned by a CNN?
+(a) Gradient-weighted Class Activation Mapping (Grad-CAM)
+(b) K-means clustering
+(c) Principal component analysis (PCA)
+(d) None of the above
+
+Explanation: Grad-CAM helps visualize the regions of an image that contribute to a specific prediction. So, the answer is (a).
