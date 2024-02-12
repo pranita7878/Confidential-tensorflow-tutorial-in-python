@@ -1,0 +1,62 @@
+MCQs:
+
+In TensorFlow, what data structure serves as the primary input for image classification using CNNs?
+
+(a) 1D array
+(b) 2D array (matrix)
+(c) 3D tensor (image)
+(d) 4D tensor (batch of images) (Correct)
+Which layer type in a CNN extracts low-level spatial features like edges and lines?
+
+(a) Dense layer
+(b) Convolutional layer (Correct)
+(c) Pooling layer
+(d) Softmax layer
+What activation function is commonly used in CNNs to introduce non-linearity and improve model performance?
+
+(a) Sigmoid
+(b) ReLU (Correct)
+(c) Linear
+(d) Softmax
+What pooling operation reduces the resolution of an image feature map, downsampling spatial data while preserving essential information?
+
+(a) Max pooling (Correct)
+(b) Average pooling
+(c) Concatenation
+(d) Up-sampling
+Which layer type in a CNN classifies an input image into a specific category from multiple possibilities?
+
+(a) Flatten layer
+(b) Dense layer (Correct)
+(c) Batch normalization layer
+(d) Dropout layer
+What regularization technique can help prevent overfitting in CNNs by randomly dropping units during training?
+
+(a) Data augmentation
+(b) L1/L2 regularization
+(c) Dropout (Correct)
+(d) Early stopping
+What hyperparameter tuning strategy involves systematically adjusting parameters like learning rate or batch size to find the best combination for model performance?
+
+(a) Grid search (Correct)
+(b) Gradient descent
+(c) Cross-validation
+(d) Backpropagation
+What technique involves using pre-trained models learned on large datasets and fine-tuning them for your specific task, often improving performance faster than training from scratch?
+
+(a) Transfer learning (Correct)
+(b) One-shot learning
+(c) Ensemble learning
+(d) Active learning
+What type of CNN architecture is commonly used for image segmentation to assign each pixel in an image to a specific class?
+
+(a) U-Net (Correct)
+(b) LeNet-5
+(c) ResNet
+(d) VGGNet
+What metric is often used to evaluate the performance of a CNN for multi-class image classification tasks, balancing precision and recall for each class?
+
+(a) Accuracy
+(b) F1-score (Correct)
+(c) AUC-ROC curve
+(d) Jaccard index
