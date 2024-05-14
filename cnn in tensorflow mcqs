@@ -1,0 +1,31 @@
+Sr No	Question	Options	Answer
+1	In TensorFlow, what data structure serves as the primary input for image classification using CNNs?	
+1D array, 2D array (matrix), 3D tensor (image), 4D tensor (batch of images)	
+Answer:4D tensor (batch of images)	
+2	Which layer type in a CNN extracts low-level spatial features like edges and lines?	
+Dense layer, Convolutional layer , Pooling layer, Softmax layer	
+Answer:Convolutional layer	
+3	What activation function is commonly used in CNNs to introduce non-linearity and improve model performance?
+Sigmoid, ReLU , Linear, Softmax	
+Answer:ReLU	
+4	What pooling operation reduces the resolution of an image feature map, downsampling spatial data while preserving essential information?	
+  Max pooling , Average pooling, Concatenation, Up-sampling	
+  Answer:Max pooling	
+5	Which layer type in a CNN classifies an input image into a specific category from multiple possibilities?	
+Flatten layer, Dense layer, Batch normalization layer, Dropout layer	
+Answer:Dense layer	
+6	What regularization technique can help prevent overfitting in CNNs by randomly dropping units during training?	
+Data augmentation, L1/L2 regularization, Dropout, Early stopping	
+Answer:Dropout	
+7	What hyperparameter tuning strategy involves systematically adjusting parameters like learning rate or batch size to find the best combination for model performance?	
+  Grid search, Gradient descent, Cross-validation, Backpropagation	
+  Answer:Grid search	
+8	What technique involves using pre-trained models learned on large datasets and fine-tuning them for your specific task, often improving performance faster than training from scratch?	
+  Transfer learning, One-shot learning, Ensemble learning, Active learning	
+  Answer:Transfer learning	
+9	What type of CNN architecture is commonly used for image segmentation to assign each pixel in an image to a specific class?	
+U-Net , LeNet-5, ResNet, VGGNet	
+Answer:U-Net	
+10	What metric is often used to evaluate the performance of a CNN for multi-class image classification tasks, balancing precision and recall for each class?	
+  Accuracy, F1-score, AUC-ROC curve, Jaccard index	
+  Answer:F1-score	
