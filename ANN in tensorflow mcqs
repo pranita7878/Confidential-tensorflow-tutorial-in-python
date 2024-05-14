@@ -1,11 +1,29 @@
 Sr No	Question	Options	Answer
-1	What is the basic unit of an ANN?	Neuron, Synapse, Dendrite, Axon	Neuron	
-2	Which of the following is not a type of ANN?	Feedforward neural network, Convolutional neural network, Recurrent neural network, Support vector machine	Support vector machine	
-3	What is the activation function used in a neuron?	Sigmoid function, Tanh function, ReLU function, All of the above	All of the above	
-4	What is the purpose of the backpropagation algorithm?	To calculate the error of the network, To update the weights of the network, To train the network, All of the above	All of the above	
-5	What is the difference between a supervised and unsupervised learning algorithm?	Supervised learning algorithms use labeled data, while unsupervised learning algorithms do not., Supervised learning algorithms are used for classification tasks, while unsupervised learning algorithms are used for clustering tasks., Supervised learning algorithms are more accurate than unsupervised learning algorithms., All of the above	Supervised learning algorithms use labeled data, while unsupervised learning algorithms do not.	
-6	What is the difference between a batch and an epoch?	A batch is a subset of the training data, while an epoch is one iteration over the entire training data., A batch is used for training the network, while an epoch is used for evaluating the network., A batch is smaller than an epoch., All of the above	A batch is a subset of the training data, while an epoch is one iteration over the entire training data.	
-7	What is the purpose of regularization?	To prevent overfitting, To improve the accuracy of the network, To reduce the training time of the network, All of the above	To prevent overfitting	
-8	What is the difference between a dropout layer and a batch normalization layer?	A dropout layer randomly drops out neurons during training, while a batch normalization layer normalizes the activations of the neurons., A dropout layer is used for regularization, while a batch normalization layer is used for improving the accuracy of the network., A dropout layer is more effective than a batch normalization layer., All of the above	A dropout layer randomly drops out neurons during training, while a batch normalization layer normalizes the activations of the neurons.	
-9	What is the purpose of transfer learning?	To reuse a pre-trained network for a new task, To improve the accuracy of the network, To reduce the training time of the network, All of the above	To reuse a pre-trained network for a new task	
-10	What are the advantages of using TensorFlow for ANN?	TensorFlow is a powerful and flexible library for ANN., TensorFlow is easy to use and learn., TensorFlow is scalable and can be used on large datasets., All of the above	All of the above
+1	What is the basic unit of an ANN?	
+Neuron, Synapse, Dendrite, Axon	
+Answer:Neuron	
+2	Which of the following is not a type of ANN?	
+Feedforward neural network, Convolutional neural network, Recurrent neural network, Support vector machine	
+Answer:Support vector machine	
+3	What is the activation function used in a neuron?	
+Sigmoid function, Tanh function, ReLU function, All of the above	
+Answer:All of the above	
+4	What is the purpose of the backpropagation algorithm?	
+To calculate the error of the network, To update the weights of the network, To train the network, All of the above	
+Answer:All of the above	
+5	What is the difference between a supervised and unsupervised learning algorithm?	
+Supervised learning algorithms use labeled data, while unsupervised learning algorithms do not., Supervised learning algorithms are used for classification tasks, while unsupervised learning algorithms are used for clustering tasks., Supervised learning algorithms are more accurate than unsupervised learning algorithms., All of the above	
+Answer:Supervised learning algorithms use labeled data, while unsupervised learning algorithms do not.	
+6	What is the difference between a batch and an epoch?	
+A batch is a subset of the training data, while an epoch is one iteration over the entire training data., A batch is used for training the network, while an epoch is used for evaluating the network., A batch is smaller than an epoch., All of the above	
+Answer:A batch is a subset of the training data, while an epoch is one iteration over the entire training data.	
+7	What is the purpose of regularization?	
+To prevent overfitting, To improve the accuracy of the network, To reduce the training time of the network, All of the above	
+Answer:To prevent overfitting	
+8	What is the difference between a dropout layer and a batch normalization layer?	
+A dropout layer randomly drops out neurons during training, while a batch normalization layer normalizes the activations of the neurons., A dropout layer is used for regularization, while a batch normalization layer is used for improving the accuracy of the network., A dropout layer is more effective than a batch normalization layer., All of the above	
+Answer:A dropout layer randomly drops out neurons during training, while a batch normalization layer normalizes the activations of the neurons.	
+9	What is the purpose of transfer learning?	To reuse a pre-trained network for a new task, To improve the accuracy of the network, To reduce the training time of the network, All of the above	
+Answer:To reuse a pre-trained network for a new task	
+10	What are the advantages of using TensorFlow for ANN?	TensorFlow is a powerful and flexible library for ANN., TensorFlow is easy to use and learn., TensorFlow is scalable and can be used on large datasets., All of the above	
+Answer:All of the above
