@@ -1,11 +1,31 @@
 Sr No	Question	Options	Answer
-1	What is TensorFlow?	An open-source machine learning framework, A programming language, A data science tool, A cloud computing platform	An open-source machine learning framework	
-2	Which of the following is not a benefit of using TensorFlow?	It is easy to use, It is scalable, It is efficient, It is not open-source	It is not open-source	
-3	What is a tensor?	A multidimensional data array, A mathematical operation, A type of neural network, A unit of measurement	A multidimensional data array	
-4	What is a data flow graph?	A representation of how data moves through a TensorFlow program, A type of neural network, A mathematical operation, A unit of measurement	A representation of how data moves through a TensorFlow program	
-5	What is a node in a data flow graph?	An instance of a mathematical operation, A type of neural network, A multidimensional data array, A unit of measurement	An instance of a mathematical operation	
-6	What is an edge in a data flow graph?	A connection between two nodes, A type of neural network, A multidimensional data array, A unit of measurement	A connection between two nodes	
-7	What is a session in TensorFlow?	An environment in which TensorFlow programs are executed, A type of neural network, A multidimensional data array, A unit of measurement	An environment in which TensorFlow programs are executed	
-8	What is a placeholder in TensorFlow?	A variable that can be assigned a value at runtime, A type of neural network, A multidimensional data array, A unit of measurement	A variable that can be assigned a value at runtime	
-9	What is a feed_dict in TensorFlow?	A dictionary that maps placeholders to values, A type of neural network, A multidimensional data array, A unit of measurement	A dictionary that maps placeholders to values	
-10	What is a variable in TensorFlow?	A data structure that can store values, A type of neural network, A multidimensional data array, A unit of measurement	A data structure that can store values	
+1	What is TensorFlow?	
+An open-source machine learning framework, A programming language, A data science tool, A cloud computing platform	
+Answer:An open-source machine learning framework	
+2	Which of the following is not a benefit of using TensorFlow?	
+It is easy to use, It is scalable, It is efficient, It is not open-source	
+Answer:It is not open-source	
+3	What is a tensor?	
+A multidimensional data array, A mathematical operation, A type of neural network, A unit of measurement	
+Answer:A multidimensional data array	
+4	What is a data flow graph?	
+A representation of how data moves through a TensorFlow program, A type of neural network, A mathematical operation, A unit of measurement	
+Answer:A representation of how data moves through a TensorFlow program	
+5	What is a node in a data flow graph?	
+An instance of a mathematical operation, A type of neural network, A multidimensional data array, A unit of measurement	
+Answer:An instance of a mathematical operation	
+6	What is an edge in a data flow graph?	
+A connection between two nodes, A type of neural network, A multidimensional data array, A unit of measurement	
+Answer:A connection between two nodes	
+7	What is a session in TensorFlow?	
+An environment in which TensorFlow programs are executed, A type of neural network, A multidimensional data array, A unit of measurement	
+Answer:An environment in which TensorFlow programs are executed	
+8	What is a placeholder in TensorFlow?	
+A variable that can be assigned a value at runtime, A type of neural network, A multidimensional data array, A unit of measurement	
+Answer:A variable that can be assigned a value at runtime	
+9	What is a feed_dict in TensorFlow?	
+A dictionary that maps placeholders to values, A type of neural network, A multidimensional data array, A unit of measurement	
+Answer:A dictionary that maps placeholders to values	
+10	What is a variable in TensorFlow?	
+A data structure that can store values, A type of neural network, A multidimensional data array, A unit of measurement	
+Answer:A data structure that can store values	
