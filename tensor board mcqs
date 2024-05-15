@@ -1,11 +1,31 @@
 Sr No	Question	Options	Answer
-1	What is TensorBoard?	A visualization tool for TensorFlow, A machine learning library, A deep learning framework, A programming language	A visualization tool for TensorFlow	
-2	What can you visualize with TensorBoard?	Metrics such as loss and accuracy, The model graph, Histograms of weights, biases, or other tensors, All of the above	All of the above	
-3	How do you start TensorBoard?	Run the tensorboard command in a terminal, Click the "TensorBoard" tab in Jupyter Notebook, Import the tensorboard module in Python, All of the above	All of the above	
-4	What port does TensorBoard run on by default?	6006, 8080, 5000, 5000	6006	
-5	What is the name of the file that TensorBoard reads to get data?	events.out.tfevents, events.out, events.pb, events.bin	events.out.tfevents	
-6	What is the name of the tab in TensorBoard that shows the model graph?	Graphs, Scalars, Distributions, Images	Graphs	
-7	What is the name of the tab in TensorBoard that shows histograms of weights, biases, or other tensors?	Distributions, Histograms, Weights, Biases	Histograms	
-8	What is the name of the tab in TensorBoard that shows images?	Images, Plots, Histograms, Distributions	Images	
-9	What is the name of the tab in TensorBoard that shows text?	Text, Strings, NLP, Embeddings	Text	
-10	What is the name of the tab in TensorBoard that shows audio?	Audio, Sound, Music, Speech	Speech	
+1	What is TensorBoard?	
+A visualization tool for TensorFlow, A machine learning library, A deep learning framework, A programming language	
+Answer:A visualization tool for TensorFlow	
+2	What can you visualize with TensorBoard?	
+Metrics such as loss and accuracy, The model graph, Histograms of weights, biases, or other tensors, All of the above	
+Answer:All of the above	
+3	How do you start TensorBoard?	
+Run the tensorboard command in a terminal, Click the "TensorBoard" tab in Jupyter Notebook, Import the tensorboard module in Python, All of the above	
+Answer:All of the above	
+4	What port does TensorBoard run on by default?	
+6006, 8080, 5000, 5000	
+Answer:6006	
+5	What is the name of the file that TensorBoard reads to get data?	
+events.out.tfevents, events.out, events.pb, events.bin	
+Answer:events.out.tfevents	
+6	What is the name of the tab in TensorBoard that shows the model graph?	
+Graphs, Scalars, Distributions, Images	
+Answer:Graphs	
+7	What is the name of the tab in TensorBoard that shows histograms of weights, biases, or other tensors?	
+Distributions, Histograms, Weights, Biases	
+Answer:Histograms	
+8	What is the name of the tab in TensorBoard that shows images?	
+Images, Plots, Histograms, Distributions	
+Answer:Images	
+9	What is the name of the tab in TensorBoard that shows text?	
+Text, Strings, NLP, Embeddings	
+Answer:Text	
+10	What is the name of the tab in TensorBoard that shows audio?	
+Audio, Sound, Music, Speech	
+Answer:Speech	
