@@ -1,11 +1,31 @@
 Sr No	Question	Options	Answer
-1	What is object detection?	The process of identifying and locating objects in an image or video., The process of classifying objects in an image or video., The process of segmenting objects in an image or video., The process of tracking objects in an image or video.	The process of identifying and locating objects in an image or video.	
-2	What is TensorFlow?	A machine learning library for Python., A deep learning library for Python., A computer vision library for Python., All of the above.	All of the above.	
-3	What is the TensorFlow Object Detection API?	A library for training and deploying object detection models in TensorFlow., A library for pre-trained object detection models in TensorFlow., A library for evaluating object detection models in TensorFlow., All of the above.	All of the above.	
-4	What are the steps involved in object detection in TensorFlow?	Collect a dataset of images with labeled objects., Train an object detection model on the dataset., Deploy the object detection model to production., All of the above.	All of the above.	
-5	What are some of the challenges in object detection?	Occlusion: Objects may be partially or fully occluded by other objects., Scale: Objects can be of different sizes., Background clutter: Objects can be difficult to distinguish from the background., All of the above.	All of the above.	
-6	What are some of the pre-trained object detection models available in the TensorFlow Object Detection API?	Faster R-CNN, SSD, YOLO, All of the above.	All of the above.	
-7	How can I evaluate an object detection model?	Use a dataset of images with labeled objects., Use a metric such as mean average precision (mAP)., Use a visualization tool to see the detections., All of the above.	All of the above.	
-8	How can I deploy an object detection model to production?	Save the model to a file., Load the model into a TensorFlow Serving server., Send images to the TensorFlow Serving server to get detections., All of the above.	All of the above.	
-9	What are some of the applications of object detection?	Image search, Video surveillance, Robotics, All of the above.	All of the above.	
-10	What are some of the limitations of object detection?	Object detection models can be computationally expensive., Object detection models can be sensitive to noise and variations in the environment., Object detection models may not be able to detect all objects in an image or video., All of the above.	All of the above.	
+1	What is object detection?	
+The process of identifying and locating objects in an image or video., The process of classifying objects in an image or video., The process of segmenting objects in an image or video., The process of tracking objects in an image or video.	
+Answer:The process of identifying and locating objects in an image or video.	
+2	What is TensorFlow?	
+A machine learning library for Python., A deep learning library for Python., A computer vision library for Python., All of the above.	
+Answer:All of the above.	
+3	What is the TensorFlow Object Detection API?	
+A library for training and deploying object detection models in TensorFlow., A library for pre-trained object detection models in TensorFlow., A library for evaluating object detection models in TensorFlow., All of the above.	
+Answer:All of the above.	
+4	What are the steps involved in object detection in TensorFlow?	
+Collect a dataset of images with labeled objects., Train an object detection model on the dataset., Deploy the object detection model to production., All of the above.	
+Answer:All of the above.	
+5	What are some of the challenges in object detection?	
+Occlusion: Objects may be partially or fully occluded by other objects., Scale: Objects can be of different sizes., Background clutter: Objects can be difficult to distinguish from the background., All of the above.	
+Answer:All of the above.	
+6	What are some of the pre-trained object detection models available in the TensorFlow Object Detection API?	
+Faster R-CNN, SSD, YOLO, All of the above.	
+Answer:All of the above.	
+7	How can I evaluate an object detection model?	
+Use a dataset of images with labeled objects., Use a metric such as mean average precision (mAP)., Use a visualization tool to see the detections., All of the above.	
+Answer:All of the above.	
+8	How can I deploy an object detection model to production?	
+Save the model to a file., Load the model into a TensorFlow Serving server., Send images to the TensorFlow Serving server to get detections., All of the above.	
+Answer:All of the above.	
+9	What are some of the applications of object detection?	
+Image search, Video surveillance, Robotics, All of the above.	
+Answer:All of the above.	
+10	What are some of the limitations of object detection?	
+Object detection models can be computationally expensive., Object detection models can be sensitive to noise and variations in the environment., Object detection models may not be able to detect all objects in an image or video., All of the above.	
+Answer:All of the above.	
